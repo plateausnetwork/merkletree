@@ -1,4 +1,4 @@
-module github.com/cbergoon/merkletree
+module github.com/rhizomplatform/merkletree
 
 go 1.12
 
