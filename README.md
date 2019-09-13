@@ -22,7 +22,7 @@ See the docs [here](https://godoc.org/github.com/rhizomplatform/merkletree).
 
 #### Install
 ```
-go get github.com/rhizomplatform/merkletree
+go get github.com/rhizomplatform/merkletree@master
 ```
 
 #### Example Usage
