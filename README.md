@@ -18,11 +18,11 @@ nlog2(n) steps in the worst case.
 
 #### Documentation 
 
-See the docs [here](https://godoc.org/github.com/rhizomplatform/merkletree).
+See the docs [here](https://godoc.org/github.com/plateausnetwork/merkletree).
 
 #### Install
 ```
-go get github.com/rhizomplatform/merkletree@master
+go get github.com/plateausnetwork/merkletree@master
 ```
 
 #### Example Usage
@@ -35,7 +35,7 @@ import (
 
   "golang.org/x/crypto/sha3"
 
-  "github.com/rhizomplatform/merkletree"
+  "github.com/plateausnetwork/merkletree"
 )
 
 //TestContent implements the Content interface provided by merkletree and represents the content stored in the tree.
